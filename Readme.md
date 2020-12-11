@@ -1,3 +1,27 @@
+# Quick Instructions
+## Download
+- Download the YoutubeDownloader: https://github.com/TheRealEnigma/YoutubeDownloader/releases/download/1.7.16.RE/YoutubeDownloader.zip
+- Unzip.
+- Remove it simply by deleting it.
+- Requires .NET v3.1 Desktop Runtime, which you can [download here](https://dotnet.microsoft.com/download/dotnet-core/3.1).
+- Runs on Windows, Mac, Linux, Pis, etc. 
+
+## Running
+- Run YoutubeDownloader.exe from wherever it was unzipped.
+![Start](.screenshots/start.png)
+
+- Paste a YouTube URL (video or playlist) and click download to save to your location of choice.
+![Download](.screenshots/preview.png)
+
+## Settings
+- Numerous settings allow you to select the format, audio only, etc. Normally the defaults for video are adequate.
+
+## Issues & Other Feedback
+Post any issues and other feedback using the "Discussions" tab.
+
+
+## Additional info
+Original author's (Tyrrrz) readme follows. The donate button goes to him, not me.
 # YoutubeDownloader
 
 [![Build](https://github.com/Tyrrrz/YoutubeDownloader/workflows/CI/badge.svg?branch=master)](https://github.com/Tyrrrz/YoutubeDownloader/actions)
